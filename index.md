@@ -1,2 +1,2 @@
 Yakında açılıyoruz...
-[Internal Link](/index.md)
+[Internal Link](/test.md)
